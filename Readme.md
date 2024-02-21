@@ -1,7 +1,7 @@
 # Личный проект «Шесть городов»
 
 * Студент: [Dmitry Kharitonov](https://up.htmlacademy.ru/react/15/user/1144141).
-* Наставник: `Неизвестно`.
+* Наставник: [Иван Некипелов](https://htmlacademy.ru/profile/jedi).
 
 ---
 
